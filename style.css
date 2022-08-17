@@ -1,0 +1,18 @@
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.square:hover{
+    background-color: red;
+}
+
+.digital-clock{
+    background-color: #82885a;
+    width: 100%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 70px;
+    text-align: center;
+}
